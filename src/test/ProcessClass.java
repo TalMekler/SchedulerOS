@@ -10,5 +10,7 @@ public class ProcessClass {
         this.arrivalTime = arrivalTime;
         this.burstTime = burstTime;
     }
+    
+    //TODO: getters & setters
 
 }
